@@ -181,14 +181,11 @@ status: "🚀 Construyendo soluciones de producción y arquitecturas cloud priva
 <a href="https://github.com/zbrun0" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-17171c?style=for-the-badge&logo=github&logoColor=38bdf8&color=17171c&labelColor=0d1117" alt="GitHub">
 </a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://instagram.com/bh.nxt" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram bh.nxt">
 </a>&nbsp;&nbsp;
-<a href="mailto:zbrunok03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>&nbsp;&nbsp;
-<a href="https://aura-split.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Demo%20Live-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo Live">
+<a href="https://wa.me/51914048382" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +51 914048382">
 </a>
 
 </div>
